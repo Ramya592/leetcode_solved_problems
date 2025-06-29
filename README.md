@@ -18,4 +18,8 @@ A collection of my solved LeetCode problems with clean and well-commented code. 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0027-remove-element) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
