@@ -23,6 +23,7 @@ A collection of my solved LeetCode problems with clean and well-commented code. 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0009-palindrome-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0342-power-of-four) |
