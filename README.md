@@ -23,6 +23,7 @@ A collection of my solved LeetCode problems with clean and well-commented code. 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0009-palindrome-number) |
+| [1013-fibonacci-number](https://github.com/Ramya592/leetcode_solved_problems/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -31,4 +32,16 @@ A collection of my solved LeetCode problems with clean and well-commented code. 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0059-spiral-matrix-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ramya592/leetcode_solved_problems/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ramya592/leetcode_solved_problems/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ramya592/leetcode_solved_problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
