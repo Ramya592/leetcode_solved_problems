@@ -23,6 +23,7 @@ A collection of my solved LeetCode problems with clean and well-commented code. 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Ramya592/leetcode_solved_problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Ramya592/leetcode_solved_problems/tree/master/1236-n-th-tribonacci-number) |
 ## Matrix
@@ -41,10 +42,15 @@ A collection of my solved LeetCode problems with clean and well-commented code. 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Ramya592/leetcode_solved_problems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Ramya592/leetcode_solved_problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Ramya592/leetcode_solved_problems/tree/master/1236-n-th-tribonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
