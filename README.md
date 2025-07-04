@@ -7,6 +7,7 @@ A collection of my solved LeetCode problems with clean and well-commented code. 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0027-remove-element) |
 | [0059-spiral-matrix-ii](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0059-spiral-matrix-ii) |
@@ -59,4 +60,12 @@ A collection of my solved LeetCode problems with clean and well-commented code. 
 | ------- |
 | [0231-power-of-two](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0342-power-of-four) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
