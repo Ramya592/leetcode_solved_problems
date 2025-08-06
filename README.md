@@ -10,6 +10,7 @@ A collection of my solved LeetCode problems with clean and well-commented code. 
 | [0014-longest-common-prefix](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0035-search-insert-position) |
 | [0059-spiral-matrix-ii](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0059-spiral-matrix-ii) |
 ## Hash Table
 |  |
@@ -68,4 +69,8 @@ A collection of my solved LeetCode problems with clean and well-commented code. 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
