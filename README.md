@@ -12,6 +12,7 @@ A collection of my solved LeetCode problems with clean and well-commented code. 
 | [0027-remove-element](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0035-search-insert-position) |
 | [0059-spiral-matrix-ii](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of my solved LeetCode problems with clean and well-commented code. 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0326-power-of-three) |
