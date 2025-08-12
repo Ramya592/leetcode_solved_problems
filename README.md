@@ -13,6 +13,7 @@ A collection of my solved LeetCode problems with clean and well-commented code. 
 | [0035-search-insert-position](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0035-search-insert-position) |
 | [0059-spiral-matrix-ii](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of my solved LeetCode problems with clean and well-commented code. 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of my solved LeetCode problems with clean and well-commented code. 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0035-search-insert-position) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
