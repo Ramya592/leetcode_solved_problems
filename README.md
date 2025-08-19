@@ -15,6 +15,7 @@ A collection of my solved LeetCode problems with clean and well-commented code. 
 | [0066-plus-one](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of my solved LeetCode problems with clean and well-commented code. 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Ramya592/leetcode_solved_problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Ramya592/leetcode_solved_problems/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
