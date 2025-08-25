@@ -17,10 +17,12 @@ A collection of my solved LeetCode problems with clean and well-commented code. 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,10 +88,12 @@ A collection of my solved LeetCode problems with clean and well-commented code. 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -102,4 +106,8 @@ A collection of my solved LeetCode problems with clean and well-commented code. 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
