@@ -16,6 +16,7 @@ A collection of my solved LeetCode problems with clean and well-commented code. 
 | [0088-merge-sorted-array](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of my solved LeetCode problems with clean and well-commented code. 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ramya592/leetcode_solved_problems/tree/master/0342-power-of-four) |
 ## String
